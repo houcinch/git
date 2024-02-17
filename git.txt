@@ -1,3 +1,4 @@
+🔶🔶🔶
 --------------- who am I ---------------
 git config --global user.name "ur name"
 git config --global user.email "ur email"
@@ -7,6 +8,7 @@ ________________________________________
 git init
 	create depo local
 
+🔶🔶🔶
 data -> index -> commit -> depo local
 
  --------------- cmd :
@@ -25,13 +27,15 @@ git diff
 
 ---------------- index --------------
 add data, add change -> index ( To upgrade at depot or save data without saving it at depot )
-
+	
+🔶🔶🔶				
 add :
 git add .
 	add *
 git index.html
 	add index.html
 
+🔶🔶🔶
 reset :
 git reset .
 git reset index.html
@@ -56,6 +60,7 @@ git diff --cached
 
 --------------- commit  --------------
 
+🔶🔶🔶
 git commit -m "message"
 	saving data to the local repository's history white a message
 
@@ -84,9 +89,12 @@ git show SHA-1
 git show master
 	displays the changes made in the master branch.
 
------------------ branch
-git branche name_branch
+🔶🔶🔶
+git checkout ec167cf0a19867228566b3642586895650f5ef32 (SHA-1)
+	back to commit ec167cf0a19867228566b3642586895650f5ef32
 
+----------------- branch
+git branch name_branch
 _____________________________________________________________________
 pkaylist :
 https://youtube.com/playlist?list=PLqCHPmefyyrsKA3gwqtj1Qgvn1rg2HVaD&si=A4-ndkY3rNd-syeC
