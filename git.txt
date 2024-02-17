@@ -56,3 +56,14 @@ git diff --cached
 --------------- commit  --------------
 git commit -m "message"
 	saving data to the local repository's history white a message
+
+git log
+	displays the commit history of the repository like this :
+
+	SHA-1 (The "ID" for a commit)
+	شكون دار كوميت Author
+	معاهاش 	Date
+	ميساج	-m
+_____________________________________________________________________
+pkaylist :
+https://youtube.com/playlist?list=PLqCHPmefyyrsKA3gwqtj1Qgvn1rg2HVaD&si=A4-ndkY3rNd-syeC
