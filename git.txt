@@ -9,9 +9,16 @@ data -> index -> commit to depo local
 
  --------------- cmd  ---------------
 pwd 
-فين كاين انا
+	فين كاين انا
 ls
-شنو كاين فين كاين انا هه
+	شنو كاين فين كاين انا هه
+cd /c/
+	دخل ل c:
+
+mkdir folder_name
+touch file_name
+	
+
 ---------------- index --------------
 add data, add change -> index ( To upgrade at depot or save data without saving it at depot )
 
@@ -30,3 +37,5 @@ git status
 	وشكون داخل
 
 --------------- commit  --------------
+git commit -m "message"
+	saving data to the local repository's history white a message
