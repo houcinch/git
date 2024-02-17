@@ -1,0 +1,32 @@
+--------------- who am I ---------------
+git config --global user.name "ur name"
+git config --global user.email "ur email"
+
+git init
+	create depo local
+
+data -> index -> commit to depo local
+
+ --------------- cmd  ---------------
+pwd 
+فين كاين انا
+ls
+شنو كاين فين كاين انا هه
+---------------- index --------------
+add data, add change -> index ( To upgrade at depot or save data without saving it at depot )
+
+add :
+git add .
+	add *
+git index.html
+	add index.html
+reset :
+git reset .
+git reset index.html
+
+git status
+	شكون مداخلش ل 
+	index
+	وشكون داخل
+
+--------------- commit  --------------
