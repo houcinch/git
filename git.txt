@@ -96,7 +96,11 @@ git checkout ec167cf0a19867228566b3642586895650f5ef32 (SHA-1)
 🔶🔶🔶
 git tag
 	show_tages
+
 git tag tage_name
+	example name: app_V1
+
+git tag --delete tage_name
 
 ----------------- branch
 git branch name_branch
