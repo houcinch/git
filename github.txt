@@ -16,6 +16,13 @@ git branch -M main
 					بدلات سمية من master
 					ل main
 
+git branch
+	show barnchs
+git branch name_branch
+	add branch
+git branch -M main
+	rename branch
+
 git remote add origin https://github.com/houcinch/git.git
 					origan=link(htt..git)
 git remote
@@ -23,6 +30,6 @@ git remote
 git remote -v
 					show names with linkes
 
-git push -u origin main
+git push origin main
 					post depo local to depo online
 					ب لينك و البرانش (يعني شكون بوشا)
