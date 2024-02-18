@@ -1,7 +1,28 @@
 echo "# git" >> README.md
+					write git in README.md
+
 git init
+					create depo local
+
 git add README.md
+					add README.md to index
+
 git commit -m "first commit"
+					add data of index to depo local with message"first.."
+
 git branch -M main
+					change name master to main
+					حيت github
+					بدلات سمية من master
+					ل main
+
 git remote add origin https://github.com/houcinch/git.git
+					origan=link(htt..git)
+git remote
+					show names of linkes
+git remote -v
+					show names with linkes
+
 git push -u origin main
+					post depo local to depo online
+					ب لينك و البرانش (يعني شكون بوشا)
