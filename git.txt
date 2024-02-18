@@ -103,7 +103,12 @@ git tag tage_name
 git tag --delete tage_name
 
 ----------------- branch
+git branch
+	show barnchs
 git branch name_branch
+	add branch
+git branch -M main
+	rename branch
 _____________________________________________________________________
 pkaylist :
 https://youtube.com/playlist?list=PLqCHPmefyyrsKA3gwqtj1Qgvn1rg2HVaD&si=A4-ndkY3rNd-syeC
